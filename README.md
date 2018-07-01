@@ -13,7 +13,10 @@ Skip this unless you really don't have an idea of what is machine learning and w
 Knowledge acquisition in progress.
 
 ## Links
-Course Page: [Stanford](http://cs229.stanford.edu/) | [SEE](https://see.stanford.edu/course/cs229)
-Lecture Videos: [Youtube](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599) | [SEE](https://see.stanford.edu/course/cs229) 
-Couse Materials: [Excluding Solutions](https://github.com/econti/cs229) | [Including Answers and Solutions](https://see.stanford.edu/materials/aimlcs229/MachineLearningAllMaterials.zip)
-Table of Basic Derivatives and Integrals: [PDF](https://math.boisestate.edu/~shariultman/teaching/basic_derivatives_&_integrals_II.pdf)
+* Course Page: [Stanford](http://cs229.stanford.edu/) | [SEE](https://see.stanford.edu/course/cs229)
+
+* Lecture Videos: [Youtube](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599) | [SEE](https://see.stanford.edu/course/cs229) 
+
+* Couse Materials: [Excluding Solutions](https://github.com/econti/cs229) | [Including Answers and Solutions](https://see.stanford.edu/materials/aimlcs229/MachineLearningAllMaterials.zip)
+
+* Table of Basic Derivatives and Integrals: [PDF](https://math.boisestate.edu/~shariultman/teaching/basic_derivatives_&_integrals_II.pdf)
