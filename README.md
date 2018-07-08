@@ -20,3 +20,6 @@ Knowledge acquisition in progress.
 * Summary of the Whole Course: [desmond-ong's CS229 Summary](https://github.com/desmond-ong/MLSummary)
 * Programming Exercise: [Matlab/Octave](ml-class.org) | [Python](https://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/) | [Another Python](https://github.com/kaleko/CourseraML)
 * Table of Basic Derivatives and Integrals: [PDF](https://math.boisestate.edu/~shariultman/teaching/basic_derivatives_&_integrals_II.pdf)
+
+## Supplementary Materials
+* Visualization of Backpropagation: [Link](https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/)
