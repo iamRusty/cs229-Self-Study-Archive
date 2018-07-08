@@ -17,5 +17,5 @@ Knowledge acquisition in progress.
 * Course Page: [Stanford](http://cs229.stanford.edu/) | [SEE](https://see.stanford.edu/course/cs229)
 * Lecture Videos: [Youtube](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599) | [SEE](https://see.stanford.edu/course/cs229) 
 * Couse Materials: [Excluding Solutions](https://github.com/econti/cs229) | [Including Answers and Solutions](https://see.stanford.edu/materials/aimlcs229/MachineLearningAllMaterials.zip)
-* Programming Exercise: [Matlab/Octave](ml-class.org) | [Python](https://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/)
+* Programming Exercise: [Matlab/Octave](ml-class.org) | [Python](https://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/) | [Another Python](https://github.com/kaleko/CourseraML)
 * Table of Basic Derivatives and Integrals: [PDF](https://math.boisestate.edu/~shariultman/teaching/basic_derivatives_&_integrals_II.pdf)
