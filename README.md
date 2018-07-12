@@ -3,7 +3,7 @@ Lecture videos used are from the cs229 2008 class. All other course materials ar
 The original cs229 course uses Matlab/Octave for hands-on exercise. You can use [Coursera materials](ml-class.org) for the exercises.
 With the passing years, machine learning implementation in python has gained traction. Exercises in Python skeleton are available [here](https://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/)
 ### Lecture 1
-Skip this unless you really don't have an idea of what is machine learning and what are the general groups of machine learning algorithms.
+You may skip this lecture unless if you don't have any idea of what machine learning is, and what are the general groups of machine learning algorithms.
 
 ### Lecture 2
 * Covers page 1 to 11 of Lecture Note 1
@@ -27,9 +27,9 @@ Skip this unless you really don't have an idea of what is machine learning and w
   - Substituting the first equation implies
     <p> <img src="https://latex.codecogs.com/gif.latex?p(y|x&space;;&space;\Theta)=\frac{1}{\sigma&space;\sqrt{2\pi}}e^{-\frac{(y&space;^{(i)}-\Theta&space;^{T}x^{(i)})^2}{2\sigma^{2}}}" title="p(y|x ; \Theta)=\frac{1}{\sigma \sqrt{2\pi}}e^{-\frac{(y ^{(i)}-\Theta ^{T}x^{(i)})^2}{2\sigma^{2}}}" />
     
-  - the function above can be viewed as the probality or the likelihood of getting a correct value of <img src="https://latex.codecogs.com/gif.latex?y" title="y" /> given <img src="https://latex.codecogs.com/gif.latex?x" title="x" /> as parametrized by <img src="https://latex.codecogs.com/gif.latex?\Theta" title="\Theta" />.  We therefore want to maximize this "likelihood". Using MLE(Maximum Likelihood Estimation) and knowing that the Gaussian is a smooth surface, we therefore just maximize its log(or ln in other reference, read about log MLE) since log follows the trend of a function's gradient. Maximizing the likelihood function gives as 
+  - the function above can be viewed as the probality or the likelihood of getting a correct value of <img src="https://latex.codecogs.com/gif.latex?y" title="y" /> given <img src="https://latex.codecogs.com/gif.latex?x" title="x" /> as parametrized by <img src="https://latex.codecogs.com/gif.latex?\Theta" title="\Theta" />.  We therefore want to maximize this "likelihood". Using MLE(Maximum Likelihood Estimation) and knowing that the Gaussian is a smooth surface, we therefore just maximize its log(or ln in other reference, read about log MLE) since log follows the trend of a function's gradient. Maximizing the likelihood function gives us 
     <p> <img src="https://latex.codecogs.com/gif.latex?constant&space;-&space;\frac{1}{2\sigma&space;^{2}}\sum&space;(y^{(i))}-\Theta&space;^{T}x^{(i))})^{2}" title="constant - \frac{1}{2\sigma ^{2}}\sum (y^{(i))}-\Theta ^{T}x^{(i))})^{2}" />
-  - Maximizing the above equation is just equal to minimizing the least square function which was defined for the error/cost function of a linear regression    
+  - Maximizing the above equation is just equal to minimizing the least square function which was defined for the error/cost function of a linear regression in lecture 2. Notice that the above function has a a negative mo of a least square function. Maximizing the  negative of LSE function is equivalent to minimizing the LSE function.
   
 ### Lecture 4
 Knowledge acquisition in progress.
