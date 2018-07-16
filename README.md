@@ -32,7 +32,17 @@ You may skip this lecture unless if you don't have any idea of what machine lear
   - Maximizing the above equation is just equal to minimizing the least square function which was defined for the error/cost function of a linear regression in lecture 2. Notice that the above function has a a negative mo of a least square function. Maximizing the  negative of LSE function is equivalent to minimizing the LSE function.
   
 ### Lecture 4
-Knowledge acquisition in progress.
+* Logistic Regression
+  - [0, 1] output space
+  - Sigmoid as hypothesis function
+* Generalized Linear Model (GLM)
+  - Three Assumptions
+    1. Probability Dsitribution is from exponential family (e.g. Gaussian)
+    2. something about expectation
+    3. something about linear relationship between the input and eta as related by theta
+* Softmax Regressian
+  - Generalized Logistic Regression with output space of [1,...,k] 
+  
 
 ## Links
 * Course Page: [Stanford](http://cs229.stanford.edu/) | [SEE](https://see.stanford.edu/course/cs229)
