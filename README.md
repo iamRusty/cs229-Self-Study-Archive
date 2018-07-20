@@ -5,12 +5,12 @@ With the passing years, machine learning implementation in python has gained tra
 ### Lecture 1
 You may skip this lecture unless if you don't have any idea of what machine learning is, and what are the general groups of machine learning algorithms.
 
-### Lecture 2
+### Lecture 2 Linear Regression 1
 * Covers page 1 to 11 of Lecture Note 1
 * Knowledge in Matrix operations and Vector Calulus is needed
 * The normal equations part could be generalized with pseudoinverse inverse matrix operations, particularly, Moore-Penrose inverse.
 
-### Lecture 3
+### Lecture 3 Linear Regression 2 - Demo: [here](https://github.com/iamRusty/cs229-Self-Study-Archive/blob/master/ex1.py)
 * **Parametric** vs **Non-parametric** Learning Algorithm
   - **Parametric** - Fixed set of parameters
   - **Non-parametric** - Amount of parameters scale with training set size
