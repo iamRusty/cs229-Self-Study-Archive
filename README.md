@@ -31,7 +31,7 @@ You may skip this lecture unless if you don't have any idea of what machine lear
     <p> <img src="https://latex.codecogs.com/gif.latex?constant&space;-&space;\frac{1}{2\sigma&space;^{2}}\sum&space;(y^{(i))}-\Theta&space;^{T}x^{(i))})^{2}" title="constant - \frac{1}{2\sigma ^{2}}\sum (y^{(i))}-\Theta ^{T}x^{(i))})^{2}" />
   - Maximizing the above equation is just equal to minimizing the least square function which was defined for the error/cost function of a linear regression in lecture 2. Notice that the above function has a a negative mo of a least square function. Maximizing the  negative of LSE function is equivalent to minimizing the LSE function.
   
-### Lecture 4
+### Lecture 4 Logistic Regression - Demo: [here](https://github.com/iamRusty/cs229-Self-Study-Archive/blob/master/ex2.py)
 * Logistic Regression
   - [0, 1] output space
   - Sigmoid as hypothesis function
