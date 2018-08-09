@@ -42,7 +42,11 @@ You may skip this lecture unless if you don't have any idea of what machine lear
     3. something about linear relationship between the input and eta as related by theta
 * Softmax Regressian
   - Generalized Logistic Regression with output space of [1,...,k] 
-  
+ 
+## Todo Demos
+* Neural Network (2 class MNIST)
+* Softmax (10 class MNIST)
+* Naive Bayes
 
 ## Links
 * Course Page: [Stanford](http://cs229.stanford.edu/) | [SEE](https://see.stanford.edu/course/cs229)
